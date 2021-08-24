@@ -7,3 +7,4 @@ hardware/software you will be needing :-
 3.Connecting wires
 4.Arduino IDE
 
+![Screenshot 2021-08-24 185947](https://user-images.githubusercontent.com/63355322/130626488-44fc7650-d89f-4527-9eaa-affb00ccb848.png)
